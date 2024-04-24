@@ -112,5 +112,4 @@ if user_id:
 
 else:    
     st.markdown("\n")
-    st.markdown("<h2 style='text-align: center;'>Please read instructions in the sidebar carefully and \n type in your Prolific ID to initiate this service! You have a single opportunity to search with Optima. Ensure your query is under 50 characters and make it count.
-</h2>", unsafe_allow_html=True)
+    st.markdown("<h2 style='text-align: center;'>Please read instructions in the sidebar carefully and \n type in your Prolific ID to initiate this service! \n You have a single opportunity to search with Optima. Ensure your query is under 50 characters and make it count.</h2>", unsafe_allow_html=True)
